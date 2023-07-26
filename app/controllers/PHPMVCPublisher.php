@@ -7,7 +7,7 @@ class PHPMvcPublisher implements IWriteLines
 {
   public function publish($data)
   {
-    // Publication des données à une vue générée (simulation)
+    // Publication des données à une vue
     echo $data;
   }
 }

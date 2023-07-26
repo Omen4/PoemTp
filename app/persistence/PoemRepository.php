@@ -6,7 +6,10 @@ use app\interfaces\IObtainPoems;
 
 class PoemRepository implements IObtainPoems
 {
-  private $poems = [];
+  private $poems = [
+    //Todo: Format du poème?
+
+  ];
 
   public function addPoem(Poem $poem)
   {
