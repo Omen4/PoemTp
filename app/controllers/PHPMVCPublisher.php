@@ -11,5 +11,3 @@ class PHPMvcPublisher implements IWriteLines
     echo $data;
   }
 }
-
-?>

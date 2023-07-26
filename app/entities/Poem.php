@@ -20,4 +20,3 @@ class Poem
     return $this->id;
   }
 }
-?>

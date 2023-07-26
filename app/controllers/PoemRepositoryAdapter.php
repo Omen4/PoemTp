@@ -20,5 +20,3 @@ class PoemRepositoryAdapter implements IObtainPoems
     return $this->poemRepository->getPoemById($poemId);
   }
 }
-
-?>

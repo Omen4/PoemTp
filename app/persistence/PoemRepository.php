@@ -29,5 +29,3 @@ class PoemRepository implements IObtainPoems
     return $this->poems;
   }
 }
-
-?>

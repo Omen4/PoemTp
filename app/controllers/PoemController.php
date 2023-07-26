@@ -23,5 +23,3 @@ class PoemController
     return $this->poemService->writePoem($content);
   }
 }
-
-?>

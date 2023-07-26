@@ -36,5 +36,3 @@ class PoemControllerTest extends TestCase
     $this->assertTrue($result);
   }
 }
-
-?>
